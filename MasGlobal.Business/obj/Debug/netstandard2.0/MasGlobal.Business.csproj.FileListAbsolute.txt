@@ -1,0 +1,12 @@
+C:\repos\MasGlobal\MasGlobal.Business\bin\Debug\netstandard2.0\MasGlobal.Business.deps.json
+C:\repos\MasGlobal\MasGlobal.Business\bin\Debug\netstandard2.0\MasGlobal.Business.dll
+C:\repos\MasGlobal\MasGlobal.Business\bin\Debug\netstandard2.0\MasGlobal.Business.pdb
+C:\repos\MasGlobal\MasGlobal.Business\bin\Debug\netstandard2.0\MasGlobal.Data.dll
+C:\repos\MasGlobal\MasGlobal.Business\bin\Debug\netstandard2.0\MasGlobal.Data.pdb
+C:\repos\MasGlobal\MasGlobal.Business\obj\Debug\netstandard2.0\MasGlobal.Business.csprojAssemblyReference.cache
+C:\repos\MasGlobal\MasGlobal.Business\obj\Debug\netstandard2.0\MasGlobal.Business.csproj.CoreCompileInputs.cache
+C:\repos\MasGlobal\MasGlobal.Business\obj\Debug\netstandard2.0\MasGlobal.Business.AssemblyInfoInputs.cache
+C:\repos\MasGlobal\MasGlobal.Business\obj\Debug\netstandard2.0\MasGlobal.Business.AssemblyInfo.cs
+C:\repos\MasGlobal\MasGlobal.Business\obj\Debug\netstandard2.0\MasGlobal.Business.csproj.CopyComplete
+C:\repos\MasGlobal\MasGlobal.Business\obj\Debug\netstandard2.0\MasGlobal.Business.dll
+C:\repos\MasGlobal\MasGlobal.Business\obj\Debug\netstandard2.0\MasGlobal.Business.pdb

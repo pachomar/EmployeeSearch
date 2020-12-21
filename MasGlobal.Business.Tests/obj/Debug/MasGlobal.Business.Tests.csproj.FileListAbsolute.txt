@@ -1,0 +1,16 @@
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\MasGlobal.Business.Tests.dll
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\MasGlobal.Business.Tests.pdb
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\repos\MasGlobal\MasGlobal.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\repos\MasGlobal\MasGlobal.Business.Tests\obj\Debug\MasGlobal.Business.Tests.csproj.CoreCompileInputs.cache
+C:\repos\MasGlobal\MasGlobal.Business.Tests\obj\Debug\MasGlobal.Business.Tests.csproj.CopyComplete
+C:\repos\MasGlobal\MasGlobal.Business.Tests\obj\Debug\MasGlobal.Business.Tests.dll
+C:\repos\MasGlobal\MasGlobal.Business.Tests\obj\Debug\MasGlobal.Business.Tests.pdb

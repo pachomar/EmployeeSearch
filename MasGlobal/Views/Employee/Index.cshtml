@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Employees";
+}
+
+<h2>Employees</h2>
+
+<div style="float:right">
+    <input type="number" id="spinner-1" value="0" />
+    <input class="ui-button ui-widget ui-corner-all" type="submit" value="Find by Id" id="search-1">
+</div>
+
+<br /><br />
+
+<table id="employeeTable" class="display">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Contract Type</th>
+            <th>Role Name</th>
+            <th>Role Description</th>
+            <th>Hourly Salary</th>
+            <th>Montlhy Salary</th>
+            <th>Yearly Salary</th>
+        </tr>
+    </thead>
+</table>
+
+<link href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" rel="stylesheet" />
+<link href="https://cdn.datatables.net/1.10.15/css/dataTables.jqueryui.min.css" rel="stylesheet" />
+
+@section scripts {
+    <script src="//cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/dataTables.jqueryui.min.js"></script>
+
+    <script>
+        var dataToSend = { employeeId: 0};
+        var table;
+
+        $(document).ready(function () {
+            table = $('#employeeTable').DataTable(
+                {
+                    "ajax":
+                    {
+                        "url": "/Employee/Get/",
+                        "type": "GET",
+                        "datatype": "json",
+                        "data": function() {
+                            return dataToSend;
+                        },
+                        "dataSrc": "",
+                    },
+                    "columns":
+                        [
+                            { "data": "name" },
+                            { "data": "contractType" },
+                            { "data": "roleName" },
+                            { "data": "roleDescription" },
+                            { "data": "formattedHourlySalary" },
+                            { "data": "formattedMonthlySalary" },
+                            { "data": "formattedAnnualSalary" }
+                        ]
+                }
+            );
+        });
+        
+        $("#search-1").click(function () {
+            dataToSend = { employeeId: $("#spinner-1").val() };
+            table.ajax.reload();
+        });
+    </script>
+}

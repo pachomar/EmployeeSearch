@@ -1,0 +1,9 @@
+C:\repos\MasGlobal\MasGlobal.Data\bin\Debug\netstandard2.0\MasGlobal.Data.deps.json
+C:\repos\MasGlobal\MasGlobal.Data\bin\Debug\netstandard2.0\MasGlobal.Data.dll
+C:\repos\MasGlobal\MasGlobal.Data\bin\Debug\netstandard2.0\MasGlobal.Data.pdb
+C:\repos\MasGlobal\MasGlobal.Data\obj\Debug\netstandard2.0\MasGlobal.Data.csproj.CoreCompileInputs.cache
+C:\repos\MasGlobal\MasGlobal.Data\obj\Debug\netstandard2.0\MasGlobal.Data.AssemblyInfoInputs.cache
+C:\repos\MasGlobal\MasGlobal.Data\obj\Debug\netstandard2.0\MasGlobal.Data.AssemblyInfo.cs
+C:\repos\MasGlobal\MasGlobal.Data\obj\Debug\netstandard2.0\MasGlobal.Data.dll
+C:\repos\MasGlobal\MasGlobal.Data\obj\Debug\netstandard2.0\MasGlobal.Data.pdb
+C:\repos\MasGlobal\MasGlobal.Data\obj\Debug\netstandard2.0\MasGlobal.Data.csprojAssemblyReference.cache
